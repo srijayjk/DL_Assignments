@@ -14,4 +14,8 @@ Open the jupyter notebook you want to run.
 * Copy the necessary file.ipynb
 * Paste in jupyter notebook and run
 
-
+### Description
+This repo consists of Deep learning academic course assignments.
+Simple regression with DNN
+Age regression.
+MNIST with different RNN architecture.
